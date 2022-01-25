@@ -5,3 +5,4 @@ def favorite_games(name):
 favorite_games("Red dead redemtion")
 favorite_games("speder man miles morales")
 favorite_games("saints row 2")
+favorite_games("gta 5 ")
