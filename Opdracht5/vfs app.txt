@@ -1,0 +1,10 @@
+print("Welkom bij vfs")
+ naam = input("vul je naam in")
+besteming = input("voer uw besteming in")
+reisdoel = int(input("voer uw reisdoel in"))
+bedrag = visumkosten - visumkosten
+
+if visumkosten <= 30:
+    print("orderbevestiging onderweg")
+else
+    print("houd uw mail in de gaten voor een mogelijke update van uw aanvraag")
